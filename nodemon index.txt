@@ -1,2 +1,2 @@
-nodemon index "mongodb+srv://isabelly206919:01052022@cluster0.tc6u7jf.mongodb.net/tarefasDB?retryWrites=true&w=majority"
+
 
